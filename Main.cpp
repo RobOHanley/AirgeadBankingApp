@@ -8,7 +8,7 @@ int main()
 {
 	bool exit = false;
 	while (exit != true) {
-		//Printing the automatic ouput for the banking layout
+		//Printing the automatic ouput for the banking layout for the app
 		cout << "************************************" << endl;
 		cout << "*************Data Input*************" << endl;
 		cout << "Initial Investment Amount: " << endl;
